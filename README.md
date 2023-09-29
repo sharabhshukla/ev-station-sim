@@ -2,7 +2,7 @@
 
 Welcome to the **Electric Vehicle Charging Simulation** project! This project provides a powerful simulation tool for modeling electric vehicle (EV) charging scenarios, user interactions, and grid integration. Whether you're conducting research, testing charging infrastructure, or exploring grid management strategies, this simulator can assist you in understanding and optimizing EV charging systems.
 
-![EV Charging Simulation Demo](demo.gif)
+![logo-color.png](docs%2Fpics%2Flogo-color.png)
 
 ## Table of Contents
 

@@ -229,7 +229,7 @@ cython_debug/
 #.idea/
 
 !/apps/simulation/site/
-!/libs/ev_station_assets/dist/
+/libs/ev_station_assets/dist/
 
 !/libs/ev_station_assets/.pytest_cache/
 **/site/
