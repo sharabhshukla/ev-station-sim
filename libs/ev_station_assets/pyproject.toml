@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ev-station-assets"
-version = "0.0.3"
+version = "0.0.4"
 description = ""
 authors = ["shara <sharabh2019@gmail.com>"]
 readme = "README.md"

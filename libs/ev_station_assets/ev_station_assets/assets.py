@@ -34,3 +34,5 @@ class GenericGeneratorState(AbstractGeneratorState):
 
 class GenericGenerator(AbstractGenerator):
     pass
+
+
