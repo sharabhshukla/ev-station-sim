@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "ev-charging-sim"
+version = "0.0.1"
+description = "This is a monorepo for an application on ev charging simulator"
+authors = ["Sharabh S"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10, <3.13"
+mkdocs-material = "^9.4.2"
+
+
+[tool.poetry.group.docs.dependencies]
+mkdocs-material = "^9.4.2"
+mkdocs-monorepo-plugin = "^1.0.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

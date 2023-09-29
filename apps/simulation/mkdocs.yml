@@ -1,0 +1,10 @@
+site_name: EV Charging Simulator Package
+
+theme:
+  name: material
+
+plugins:
+  - monorepo
+
+nav:
+  - Intro: "index.md"

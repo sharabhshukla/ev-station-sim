@@ -1,0 +1,14 @@
+site_name: EV Charging Simulator
+
+theme: material
+
+plugins:
+  - monorepo
+
+nav:
+  - Intro: 'index.md'
+  - Getting Started: 'getting_started.md'
+  - Libs:
+      - EV Charging Assets: '!include ./libs/ev_station_assets/mkdocs.yml'
+  - Apps:
+      - Simulator: '!include ./apps/simulation/mkdocs.yml'

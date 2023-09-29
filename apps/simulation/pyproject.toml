@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "ev-simulation"
+version = "0.0.1"
+description = "This is a simulation package for ev charging stations."
+authors = ["shara <sharabh2019@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+ev-station-assets = {path = "../../libs/ev_station_assets", develop = true}
+dynaconf = "^3.2.3"
+pyyaml = "^6.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
