@@ -1,6 +1,7 @@
 # Electric Vehicle Charging Simulator Toolkit
 
 Welcome to the documentation for the **Electric Vehicle Charging Toolkit**, a comprehensive package that includes both the **EV Charging Simulator** and the **EV Charging Assets** projects. This toolkit provides tools, models, and simulations for managing and simulating electric vehicle charging infrastructure and assets.
+![logo-no-background.png](pics%2Flogo-no-background.png)
 
 ## Table of Contents
 

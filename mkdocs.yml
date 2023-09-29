@@ -1,6 +1,9 @@
 site_name: EV Charging Simulator
 
-theme: material
+theme:
+  name: material
+  logo: pics/logo-color.png
+
 
 plugins:
   - monorepo
